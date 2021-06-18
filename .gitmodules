@@ -1,3 +1,0 @@
-[submodule "vendor/cubeb"]
-	path = vendor/cubeb
-	url = https://github.com/kinetiknz/cubeb.git
